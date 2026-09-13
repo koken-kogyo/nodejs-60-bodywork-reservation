@@ -1,0 +1,19 @@
+{
+  "name": "60-bodywork-reservation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1",
+    "ejs": "^6.0.1",
+    "body-parser": "^2.3.0",
+    "mysql2": "^3.23.3",
+    "serve-favicon": "^2.5.1",
+    "log4js": "^6.9.1"
+  }
+}
